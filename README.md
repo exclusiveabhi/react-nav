@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Responsive NavBar using ReactJs by Abhishek Rajput
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

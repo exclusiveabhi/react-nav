@@ -1,6 +1,6 @@
 import React from "react";
 
-export const Blog = () => {
+export const Github = () => {
   return (
     <div>
       <h1>Github</h1>

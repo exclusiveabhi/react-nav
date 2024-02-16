@@ -1,6 +1,6 @@
 import React from "react";
 
-export const Contact = () => {
+export const Login = () => {
   return (
     <div>
       <h1>Login</h1>
