@@ -1,4 +1,4 @@
-# Responsive NavBar using ReactJs by Abhishek Rajput
+# Responsive NavBar using ReactJs
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
